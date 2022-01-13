@@ -1,0 +1,26 @@
+.someClass {
+margin: 15px;
+    width: 100px;
+}
+.high{
+   color: #f50d19;
+}
+.low{
+    color:  #f5ef32;
+}
+.middle{
+    color: #62f52a;
+}
+.all{
+    color: darkseagreen;
+}
+.global{
+    display: flex;
+}
+.button{
+    margin: 10px;
+    width: 50px;
+    background: green;
+    color: #282c34;
+
+}
